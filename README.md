@@ -1,0 +1,2 @@
+# Bus-Rapid-Transit-Application---Software-Requirements-Specification
+This Software Requirements Specification (SRS) document outlines the functional and non-functional requirements for the development of a Bus Rapid Transit (BRT) Application. The BRT Application aims to provide an efficient and user-friendly platform for commuters and transportation authorities to facilitate and improve the BRT system.
